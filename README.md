@@ -1,2 +1,2 @@
 # ProyectoIntegrador
-This is my repository of the project
+This is the repository of the project
