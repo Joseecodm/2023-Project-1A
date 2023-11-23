@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Josee
+ * @author Oswaldo
  */
 public class Uno {
 
