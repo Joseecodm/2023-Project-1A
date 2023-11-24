@@ -42,5 +42,6 @@ Esta función toma un String como argumento y verifica si el número ingresado c
 # **5. Depurar:**
 •	Verifiqué si hay errores, comprobé si el código se ejecuta correctamente y realicé pruebas de escritorio para asegurarme de que la conversión binario-decimal funcionara correctamente.
  
-# *Mi perfil de github es: https://github.com/Joseecodm*
-# *Mi sitio web personal es: https://joseecodm.github.io/Pagina_de_Jose/*
+ *Mi perfil de github es: https://github.com/Joseecodm*
+ 
+ *Mi sitio web personal es: https://joseecodm.github.io/Pagina_de_Jose/*
