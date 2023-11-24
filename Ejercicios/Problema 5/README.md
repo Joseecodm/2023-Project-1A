@@ -1,14 +1,14 @@
-**Problema 5:**
+# **Problema 5:**
 
-**1. Descripción del problema:**
+# **1. Descripción del problema:**
 Dado un numero binario de n bits regresar su equivalente en decimal.
 
-**2. Definición del problema:**
+# **2. Definición del problema:**
 •	Problema: Convertir un número binario ingresado por el usuario a su equivalente decimal.
 •	Entradas: El número binario ingresado por el usuario.
 •	Salidas: El equivalente decimal del número binario.
 
-**3. Diseño de solución:**
+# **3. Diseño de solución:**
 •	Flujo Principal:
 1.	Solicitar al usuario un número binario.
 2.	Verificar si el número es binario (contiene solo 0 y 1).
@@ -16,9 +16,9 @@ Dado un numero binario de n bits regresar su equivalente en decimal.
 4.	Convertir el número binario ingresado a su equivalente decimal.
 5.	Mostrar el equivalente decimal del número binario.
 
-*Diagrama de flujo:*
+ *Diagrama de flujo:*
  
-**4. Desarrollar:**
+# **4. Desarrollar:**
 *Importaciones y Comentarios Iniciales:*
 
 El código comienza con las importaciones necesarias y algunos comentarios que proporcionan información sobre la clase.
@@ -39,8 +39,8 @@ Esta función toma un String como argumento y verifica si el número ingresado c
 •	Itera sobre cada dígito del número binario, convirtiendo cada dígito a su equivalente decimal y sumándolo al resultado final.
 •	Usa la fórmula de conversión de binario a decimal: suma de (dígito * 2^posición), donde la posición comienza desde 0 y se incrementa hacia la izquierda en el número binario.
 
-**5. Depurar:**
+# **5. Depurar:**
 •	Verifiqué si hay errores, comprobé si el código se ejecuta correctamente y realicé pruebas de escritorio para asegurarme de que la conversión binario-decimal funcionara correctamente.
  
-*Mi perfil de github es: https://github.com/Joseecodm .*
-*Mi sitio web personal es: https://joseecodm.github.io/Pagina_de_Jose/*
+# *Mi perfil de github es: https://github.com/Joseecodm*
+# *Mi sitio web personal es: https://joseecodm.github.io/Pagina_de_Jose/*
