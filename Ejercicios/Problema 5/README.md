@@ -16,7 +16,6 @@ Dado un numero binario de n bits regresar su equivalente en decimal.
 4.	Convertir el número binario ingresado a su equivalente decimal.
 5.	Mostrar el equivalente decimal del número binario.
 
- *Diagrama de flujo:*
  
 # **4. Desarrollar:**
 *Importaciones y Comentarios Iniciales:*
