@@ -5,7 +5,9 @@ Dado un numero binario de n bits regresar su equivalente en decimal.
 
 # **2. Definición del problema:**
 •	Problema: Convertir un número binario ingresado por el usuario a su equivalente decimal.
+
 •	Entradas: El número binario ingresado por el usuario.
+
 •	Salidas: El equivalente decimal del número binario.
 
 # **3. Diseño de solución:**
@@ -24,8 +26,11 @@ El código comienza con las importaciones necesarias y algunos comentarios que p
 
 *Función main:*
 •	La función main comienza declarando una variable numeroBin para almacenar el número binario ingresado por el usuario.
+
 •	Se crea un objeto Scanner (binario) para leer la entrada del usuario.
+
 •	Se usa un bucle do-while para pedir al usuario que ingrese un número binario. Continúa solicitando la entrada hasta que se ingrese un número binario válido (solo 0 y 1).
+
 •	Después de obtener un número binario válido, llama a la función binarioADecimal para convertirlo a su equivalente decimal y muestra el resultado.
 
 *Función esBinario:*
