@@ -11,4 +11,4 @@
 
 **Carmen Anahi Cornejo Lopez**
 
-**Osvaldo Gabriel Villaverde Mendoza**
+**Oswaldo Gabriel Villaverde Mendoza**
