@@ -1,5 +1,4 @@
 package com.mycompany.integrador;
-
 import java.util.Scanner;
 
 /**
@@ -11,11 +10,11 @@ public class Integrador {
     public static void main(String[] args) {
         double a, b, c, x1, x2;
         Scanner obj1 = new Scanner(System.in);
-        System.out.println("tecla el valor de  a: ");
+        System.out.println("teclea el valor de  a: ");
         a = obj1.nextFloat();
-        System.out.println("tecla el valor de  b: ");
+        System.out.println("teclea el valor de  b: ");
         b = obj1.nextFloat();
-        System.out.println("tecla el valor de  c: ");
+        System.out.println("teclea el valor de  c: ");
         c = obj1.nextFloat();
         double discriminante = (Math.pow(b, 2)) - (4 * a * c);
         System.out.println("Discriminante: " + discriminante);
@@ -23,16 +22,15 @@ public class Integrador {
         if (discriminante > 0) {
             x1 = ((-b) + (Math.sqrt(discriminante))) / (2 * a);
             x2 = ((-b) - (Math.sqrt(discriminante))) / (2 * a);
-            System.out.println("Existen dos raices reales");
+            System.out.println("Existen dos raíces reales. ");
             System.out.println("x1: " + x1);
             System.out.println("x2: " + x2);
         } else if (discriminante == 0) {
-            System.out.println("Exite una sola raiz");
+            System.out.println("Existe una sola raíz. ");
             x1 = (-b) / (2 * a);
             System.out.println("x1: " + x1);
         } else {
-            System.out.println("No tiene raices reales, pertenecen a numeros complejos.");
+           System.out.println("No tiene raíces reales, pertenecen a números complejos.");
         }
-
     }
 }
