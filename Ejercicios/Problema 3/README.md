@@ -1,4 +1,4 @@
-# **PROBLEMA 3: **
+# PROBLEMA 3: 
 # **1. Descripción del problema:**
 
 •	Problema: Dada una circunferencia con centro en el punto C con coordenadas (X1, X2) y el radio R, evaluar si un punto T con coordenadas (X2, Y2) está dentro del área de la circunferencia.
