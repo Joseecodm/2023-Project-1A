@@ -35,7 +35,9 @@ Esta función toma un String como argumento y verifica si el número ingresado c
 *Función binarioADecimal:*
  
 •	Esta función convierte un número binario dado en un número decimal.
+
 •	Itera sobre cada dígito del número binario, convirtiendo cada dígito a su equivalente decimal y sumándolo al resultado final.
+
 •	Usa la fórmula de conversión de binario a decimal: suma de (dígito * 2^posición), donde la posición comienza desde 0 y se incrementa hacia la izquierda en el número binario.
 
 # **5. Depurar:**
