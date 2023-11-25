@@ -8,10 +8,10 @@ Metodología de las 6D
 
 3. Diseñar de solución:
 •	Flujo Principal:
-
- 
-
-
+•	Solicitar al usuario que ingrese las coordenadas del centro del círculo, el radio y las coordenadas del punto a encontrar. 
+•	Leer los datos ingresados por el usuario.
+•	Realizamos las operaciones, restaremos las coordenadas del centro del circulo y las del punto a encontrar las elevaremos al cuadrado y sumaremos, para posteriormente sacar raíz cuadrada. 
+•	Después compararemos el resultado con el radio del círculo, si el resultado de nuestra operación es mayor al radio el punto se encontrará fuera, de lo contrario se encontrará dentro del círculo.
 
 
 4. Desarrollar:
@@ -31,5 +31,5 @@ Función main:
 •	Usamos un if para saber si el punto esta fuera o dentro del círculo, si la distancia es menor al radio el punto se encontrara dentro del círculo, de lo contrario el punto se encontraría fuera del círculo.
 
 5. Depurar:
- 
+ Verifiqué si hay errores, comprobé si el código se ejecuta correctamente y realicé pruebas de escritorio para asegurarme de que la forma de encontrar el punto es correcta.
 
