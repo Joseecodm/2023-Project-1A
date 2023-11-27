@@ -1,4 +1,4 @@
-# **Proyecto Integrador de Primer Semestre**
+# **Proyecto integraodr de Primer Semestre**
 ## **Software de resolución de problemas de Ingeniería**
 ## **Presentacion en Power Point**
 
