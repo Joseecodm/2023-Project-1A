@@ -24,7 +24,7 @@ public class Uno {
                 datos.next(); // Limpiar el búfer de entrada
             }
             x1 = datos.nextDouble();
-
+ 
             // Obtener las coordenadas del punto A (y1)
             System.out.println("Ingrese las coordenadas del punto A (y1): ");
             while (!datos.hasNextDouble()) {
