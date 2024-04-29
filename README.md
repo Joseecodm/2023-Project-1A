@@ -3,12 +3,12 @@
 
 ### **Integrantes del equipo:**
 
-**José Manuel Cortes Cerón**
+- José Manuel Cortes Cerón
 
-**Diego Antonio Badillo Morales**
+- Diego Antonio Badillo Morales
 
-**Sebastian Hernandez Ángeles**
+- Sebastian Hernandez Ángeles
 
-**Carmen Anahi Cornejo Lopez**
+- Carmen Anahi Cornejo Lopez
 
-**Oswaldo Gabriel Villaverde Mendoza**
+- Oswaldo Gabriel Villaverde Mendoza
